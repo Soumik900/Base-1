@@ -86,3 +86,4 @@ Update installation guide
 Add feature placeholder
 Refactor configuration
 Improve code readability
+Add troubleshooting notes

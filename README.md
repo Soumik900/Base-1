@@ -22,3 +22,4 @@ echo "update 1" >> log.txt
 git add .
 git commit -m "Update 1"
 git push
+.............

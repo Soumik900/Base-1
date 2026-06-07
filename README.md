@@ -84,3 +84,4 @@ Add deployment script
 Improve project structure
 Update installation guide
 Add feature placeholder
+Refactor configuration

@@ -93,3 +93,4 @@ Improve documentation formatting
 Create example contract
 Update project settings
 Add utility script
+Refactor deployment workflow

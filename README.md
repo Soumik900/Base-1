@@ -54,3 +54,5 @@ git add .
 git commit -m "Practice commit 5"
 git push
 git log --oneline
+git status
+git log --oneline -5

@@ -66,3 +66,4 @@ Refactor project layout
 Add deployment notes
 Update dependencies
 Fix formatting issues
+Add example usage

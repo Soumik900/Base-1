@@ -53,3 +53,4 @@ echo "Practice update 5" >> practice.txt
 git add .
 git commit -m "Practice commit 5"
 git push
+git log --oneline
